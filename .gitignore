@@ -1,0 +1,28 @@
+# Gradle
+.gradle/
+build/
+app/build/
+
+# Local config — contains API keys and SDK path, never commit
+local.properties
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+*.iws
+*.ipr
+.DS_Store
+
+# Kotlin
+*.class
+*.jar
+*.war
+*.ear
+
+# Generated
+gen/
+generated/
+
+# Keystore
+*.jks
+*.keystore
